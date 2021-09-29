@@ -1,1 +1,7 @@
-
+<!DOCTYPE html>
+<html>
+  <h1>Hello World</h1>
+  <p>I'm hosted with GitHub pages.
+    </p>
+    </body>
+  </html>
